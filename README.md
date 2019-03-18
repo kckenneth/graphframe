@@ -41,5 +41,10 @@ export SPARK_HOME=/usr/local/Cellar/apache-spark/2.4.0/libexec
 export PYTHONPATH=/usr/local/Cellar/apache-spark/2.4.0/libexec/python/:$PYTHONP$
 export PYTHONPATH=/usr/local/Cellar/apache-spark/2.4.0/libexec/python/graphframes.zip:$PYTHONP$
 ```
+To quit the `vi`, exec --> `:wq!` 
+```
+source ~/.bash_profile
+```
+
 I don’t know in details which steps are most important. After following all the steps from different websites, I think those are the steps that leads me to working graphframe in jupyter notebook. 
 
