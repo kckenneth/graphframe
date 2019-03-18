@@ -2,15 +2,15 @@
 
 Making GraphFrame work in jupyter notebook
 
-Install Spark 
+### Install Spark 
 <a href=“https://medium.freecodecamp.org/installing-scala-and-apache-spark-on-mac-os-837ae57d283f”>Source</a> 
 
-Install pyspark
+### Install pyspark
 <a href=” https://www.dataquest.io/blog/pyspark-installation-guide”>Source</a> 
 
 Download the graphframe jar file <a href=” https://spark-packages.org/package/graphframes/graphframes”>Here</a> 
 
-Install GraphFrame 
+### Install GraphFrame 
 <a href=” https://github.com/graphframes/graphframes/issues/172”>Source</a>
 
 I download the jar `0.3.0` version. The latest version didn’t seem to work with my Spark `2.4.0` version. 
